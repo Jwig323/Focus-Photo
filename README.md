@@ -1,2 +1,0 @@
-# Focus-Photo
-FOCO Website 
